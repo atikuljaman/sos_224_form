@@ -1,0 +1,125 @@
+{
+    "pageHeading": "Formulaire d'Inscription à Soutien-Omni-Scolaire pour l'Année 2023-2024",
+    "pageDesc": "Pour adapter notre soutien éducatif à votre situation unique, que vous soyez parent d’un élève mineur ou vous-même un élève majeur, le remplissage précis de ce formulaire est essentiel. Les informations fournies sont cruciales pour affiner notre accompagnement selon les besoins individuels.",
+
+    "form": {
+      "submit": "Soumettre",
+      "submitted": "Formulaire soumis",
+      "success_message": "Votre formulaire a été soumis avec succès!",
+      "failed": "Échec de la soumission",
+      "failed_message": "Une erreur s'est produite lors de la soumission de votre formulaire. Veuillez réessayer plus tard.",
+      "error": "Ce champ est obligatoire"
+    },
+    "sections": {
+      "student_info": {
+        "title": "Information sur l'élève",
+        "labels": {
+            "firstName": "Prénom",
+            "lastName": "Nom de famille",
+            "dateOfBirth": "Date de naissance",
+            "placeOfBirth": "Lieu de naissance",
+            "legalGuardianName": "Nom complet du tuteur légal"
+        },
+        "placeholders": {
+            "firstName": "Prénom",
+            "lastName": "Nom de famille",
+            "dateOfBirth": "Date de naissance",
+            "placeOfBirth": "Lieu de naissance",
+            "legalGuardianName": "Nom complet du tuteur légal"
+        }
+      },
+      "school_info": {
+        "title": "Information sur l'école",
+        "labels": {
+            "currentSchool": "École actuelle",
+            "levelOfStudies": "Niveau d'études actuel",
+            "typeOfEducation": "Niveau: (par exemple, VP, VG, maturité, école de commerce)"
+        },
+        "placeholders": {
+            "currentSchool": "École actuelle",
+            "levelOfStudies": "Niveau d'études actuel",
+            "typeOfEducation": "Votre Réponse"
+        }
+      },
+      "contact": {
+        "title": "Contact",
+        "labels": {
+            "studentAddress": "Adresse",
+            "contactNumber": "Numéro de téléphone",
+            "email": "Email",
+            "hearAboutUs": "Comment avez-vous entendu parler du Soutien-Omni-Scolaire ?"
+        },
+        "placeholders": {
+            "studentAddress": "Adresse",
+            "contactNumber": "Numéro de téléphone",
+            "email": "Votre email",
+            "hearAboutUs": "Votre Réponse"
+        }
+      },
+      "academic_support": {
+        "title": "Sélection des Services de Soutien",
+        "labels": {
+            "checkOptions": "Veuillez cocher les services qui correspondent à vos besoins",
+            "IfYouChecked": "Si vous avez coché \"{{academicSupportMode}}\", veuillez répondre aux questions suivantes : Dans quelles matières l'étudiant souhaite-t-il bénéficier d'un soutien ?",
+            "protectedStudies": "Si vous avez coché « Études surveillées », veuillez indiquer le groupe préféré pour les études surveillées.",
+            "entranceExam": "Examen d'Admission au Gymnase",
+            "additionalInformation": "Détails Supplémentaires sur l'Élève :** (style d'apprentissage, besoins spéciaux, objectifs d'apprentissage, etc.)"
+        },
+        "placeholders": {
+            "IndividualLessonsAtHome": "Cours individuel à domicile",
+            "IndividualLessonsInOurCenter": "Cours individuel au centre",
+            "IndividualOnlineCourse": "Cours individuel en ligne",
+            "supervisedStudies": "Études surveillées",
+            "ifYouChecked": "Votre Réponse",
+            "proctoredStudiesGroupA": "Groupe A : Mercredi 15h45 - 17h45 + Dimanche 13h30 - 15h30",
+            "proctoredStudiesGroupB": "Groupe B : Lundi 17h00 - 19h00 + Mercredi 15h45 - 17h45",
+            "proctoredStudiesGroupC": "Groupe C : Lundi 17h00 - 19h00 + Dimanche 11h00 - 13h00",
+            "proctoredStudiesOther": "Autre (veuillez spécifier) :",
+            "entranceExamMaturity": "Maturité",
+            "entranceExamGeneralCulture": "Culture Générale ou Commerce",
+            "additionalInformation": "Votre Réponse"
+        }
+      },
+      "confirmation": {
+        "title": "Confirmation",
+        "labels": {
+            "subTitle": "En validant ci-dessous, je confirme, que ce soit en qualité de parent/tuteur d’un(e) élève ou en tant qu'élève majeur(e), avoir lu et accepté les conditions générales de Soutien-Omni-Scolaire. Je certifie aussi que toutes les informations fournies sont exactes à ma connaissance.",
+            "generalConditions": "Conditions Générales de Support-Omni-Scolaire",
+            "registration": "<strong>1. Inscription :</strong> L'inscription à Soutien-Omni-Scolaire est confirmée une fois que vous avez reçu une confirmation de notre part. Une évaluation initiale peut être nécessaire pour identifier les besoins spécifiques et le niveau de l'élève.",
+            "payments": "<strong>2. Paiements :</strong> Les frais de scolarité doivent être réglés dès réception de la facture, dans un délai de 7 jours. Nous acceptons plusieurs méthodes de paiement, y compris les virements bancaires et Twint. Tout retard de paiement peut entraîner des frais supplémentaires.",
+            
+            "cancellations": "<strong>3. Annulations :</strong> Si vous devez annuler une séance, veuillez nous en informer au moins 48 heures à l'avance. Les séances annulées en deçà de ce délai ou non annulées seront facturées intégralement.",
+            
+            "latenessAndAbsences": "<strong>4. Retards et Absences :</strong> Nous encourageons tous les élèves à être ponctuels. Des retards fréquents ou des absences non justifiées peuvent conduire à une révision de l'inscription de l'élève.",
+            
+            "behavior": "<strong>5. Comportement :</strong> Un comportement respectueux et approprié est attendu de la part de tous les élèves et de leurs parents au sein de Soutien-Omni-Scolaire. Tout comportement inapproprié peut entraîner l'exclusion du programme.",
+            
+            "confidentiality": "<strong>6. Confidentialité :</strong> Nous nous engageons à protéger la vie privée et les informations personnelles de nos élèves et de leurs familles. Ces informations ne seront pas divulguées sans un consentement préalable.",
+            
+            "serviceModifications": "<strong>7. Modifications des Services :</strong> Soutien-Omni-Scolaire se réserve le droit de modifier les horaires, les enseignants, ou d'autres aspects des services offerts, selon les besoins et exigences organisationnels.",
+            
+            "copyright": "<strong>8. Droit d'Auteur :</strong> Le matériel pédagogique fourni par Soutien-Omni-Scolaire est protégé par le droit d'auteur et est destiné à l'usage personnel de l'élève uniquement.",
+            
+            "termination": "<strong>9. Résiliation :</strong> Soutien-Omni-Scolaire ou le parent/tuteur peut résilier l'inscription avec un préavis d'un mois pour des raisons valables.",
+            
+            "additionalInformation": "Pour toute information complémentaire ou détail sur nos services, veuillez consulter notre site web: <a href='https://www.soutien-omni-scolaire.ch' target='_blank'>www.soutien-omni-scolaire.ch</a>. L'inscription à nos services implique l'acceptation de ces conditions générales.",
+
+            "asTheParentGuardian": "En tant que parent/tuteur de l'élève mineur ou adulte, j'ai lu et j'accepte les conditions générales du Soutien-Omni-Scolaire."
+        }
+      },
+      "photo_permission": {
+        "title": "Autorisation pour l'Usage de Photos/Vidéos",
+        "labels": {
+            "subTitle": "Nous aimerions utiliser des photos ou vidéos de votre enfant (ou de vous, si majeur) à des fins promotionnelles sur nos réseaux sociaux et site web. Votre accord est requis ",
+            "choiceBelow": "Veuillez sélectionner votre choix ci-dessous :",
+            "iAuthorize": "J'autorise",
+            "iDoNotAuthorize": "Je n'autorise pas",
+            "thankYouForChoosing": "Nous vous remercions de choisir Soutien-Omni-Scolaire pour votre parcours éducatif. Que vous soyez un parent ou un élève majeur, nous sommes impatients de collaborer avec vous. Un membre de notre équipe prendra contact sous peu pour organiser les détails et planifier ensemble les prochaines étapes"
+        }
+      }
+    },
+    "buttons": {
+      "submit": "Soumettre"
+    }
+  }
+  

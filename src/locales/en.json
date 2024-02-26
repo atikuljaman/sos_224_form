@@ -1,0 +1,127 @@
+{
+    "pageHeading": "Soutien-Omni-Scolaire Registration Form for the Year 2023-2024",
+    "pageDesc": "To tailor our educational support to your unique situation, whether you are a parent of a minor student or you are a mature student yourself, accurately filling out this form is essential. The information provided is crucial for fine-tuning our support to meet individual needs.",
+
+    "form": {
+      "submit": "Submit",
+      "submitted": "Form Submitted",
+      "success_message": "Your form has been successfully submitted!",
+      "failed": "Submission Failed",
+      "failed_message": "There was an error submitting your form. Please try again later.",
+      "error": "This field is required"
+    },
+    "sections": {
+      "student_info": {
+        "title": "Student Information",
+        "labels": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "dateOfBirth": "Date of Birth",
+            "placeOfBirth": "Place of Birth",
+            "legalGuardianName": "Legal Guardian's Full Name"
+        },
+        "placeholders": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "dateOfBirth": "Date of Birth",
+            "placeOfBirth": "Place of Birth",
+            "legalGuardianName": "Legal Guardian's Name"
+        }
+      },
+      "school_info": {
+        "title": "Educational Details",
+        "labels": {
+            "currentSchool": "Current School",
+            "levelOfStudies": "Current Level of Study",
+            "typeOfEducation": "Level: (e.g., VP, VG, Maturity, Business School)"
+
+        },
+        "placeholders": {
+            "currentSchool": "Current School",
+            "levelOfStudies": "Current Level of Study",
+            "typeOfEducation": "Your answer"
+        }
+      },
+      "contact": {
+        "title": "Contact Information",
+        "labels": {
+            "studentAddress": "Address",
+            "contactNumber": "Phone Number",
+            "email": "Email",
+            "hearAboutUs": "How Did You Hear About Soutien-Omni-Scolaire?"
+        },
+        "placeholders": {
+            "studentAddress": "Address",
+            "contactNumber": "Phone Number",
+            "email": "Your email",
+            "hearAboutUs": "Your answer"
+        }
+      },
+      "academic_support": {
+        "title": "Support Services Selection",
+        "labels": {
+            "checkOptions": "Please check the services that meet your needs",
+            "IfYouChecked": "If you checked \"{{academicSupportMode}}\", please answer the following questions: In which subjects does the student wish to receive support?",
+            "protectedStudies": "If you checked \"Supervised studies\", please indicate the preferred group for proctored studies",
+            "entranceExam": "Gymnasium Admission Exam",
+            "additionalInformation": "Further Details About the Student: (learning style, special needs, specific educational objectives, etc.)"
+        },
+        "placeholders": {
+            "IndividualLessonsAtHome": "Individual in-home lessons",
+            "IndividualLessonsInOurCenter": "Individual lessons at our center",
+            "IndividualOnlineCourse": "Individual online course",
+            "supervisedStudies": "Supervised studies",
+            "ifYouChecked": "Your answer",
+            "proctoredStudiesGroupA": "Group A: Wednesday 15:45 - 17:45 + Sunday 13:30 - 15:30",
+            "proctoredStudiesGroupB": "Group B: Monday 17:00 - 19:00 + Wednesday 15:45 - 17:45",
+            "proctoredStudiesGroupC": "Group C: Monday 17:00 - 19:00 + Sunday 11:00 - 13:00",
+            "proctoredStudiesOther": "Other (please specify):",
+            
+            "entranceExamMaturity": "Maturity",
+            "entranceExamGeneralCulture": "General Culture or Commerce",
+            "additionalInformation": "Your answer"
+        }
+      },
+      "confirmation": {
+        "title": "Confirmation", 
+        "labels": {
+            "subTitle": "By ticking the box below, I, as the parent/guardian of the minor student or as the adult student, affirm that I have read and agreed to the general terms and conditions of Soutien-Omni-Scolaire. I also verify that all the information provided is accurate to the best of my knowledge.",
+            "generalConditions": "General Conditions of Support-Omni-Scolaire ",
+            "registration": "<strong>1. Registration:</strong> Registration at Soutien-Omni-Scolaire is confirmed upon receiving our confirmation. An initial assessment may be required to identify specific needs and the student's level.",
+            "payments": "<strong>2. Payments:</strong> Tuition fees must be paid upon receiving the invoice, within 7 days. We accept various payment methods, including bank transfers and Twint. Any delay in payment may incur additional charges.",
+            
+            "cancellations": "<strong>3. Cancellations:</strong> If a session needs to be canceled, please inform us at least 48 hours in advance. Sessions canceled later than this deadline or not canceled will be fully charged.",
+            
+            "latenessAndAbsences": "<strong>4. Delays and Absences:</strong> Punctuality is encouraged for all students. Frequent delays or unjustified absences may lead to a revision of the student's registration.",
+            
+            "behavior": "<strong>5. Behavior:</strong> Respectful and appropriate behavior is expected from all students and their parents within Soutien-Omni-Scolaire. Inappropriate behavior may lead to exclusion from the program.",
+            
+            "confidentiality": "<strong>6. Confidentiality:</strong> We commit to protecting the privacy and personal information of our students and their families and will not disclose this information without prior consent.",
+            
+            "serviceModifications": "<strong>7. Service Modifications:</strong> Soutien-Omni-Scolaire reserves the right to modify schedules, teachers, or other service aspects as needed.",
+            
+            "copyright": "<strong>8. Copyright:</strong> Educational material provided by Soutien-Omni-Scolaire is copyrighted and intended for the student's personal use only.",
+            
+            "termination": "<strong>9. Termination:</strong> Soutien-Omni-Scolaire or the parent/guardian may terminate the registration with one month's notice for valid reasons.",
+            
+            "additionalInformation": "For more information or details about our services, please visit our website: <a href='https://www.soutien-omni-scolaire.ch' target='_blank'>www.soutien-omni-scolaire.ch</a>. Registering for our services implies acceptance of these general terms and conditions.",
+
+            "asTheParentGuardian": "    As the parent/guardian of the minor or adult student, I have read and accept the general conditions of Soutien-Omni-Scolaire."
+        }
+      },
+      "photo_permission": {
+        "title": "Photo/Video Use Authorization",
+        "labels": {
+            "subTitle": "We would like to use photos or videos of your child (or you, if of age) for promotional purposes on our social media and website. Your consent is required:",
+            "choiceBelow": "Please select your choice below:",
+            "iAuthorize": "I authorize",
+            "iDoNotAuthorize": "I do not authorize",
+            "thankYouForChoosing": "Thank you for choosing Soutien-Omni-Scolaire for your educational journey. Whether you're a parent or a major student, we look forward to working with you. A team member will soon contact you to discuss details and plan the next steps together."
+        }
+      }
+    },
+    "buttons": {
+      "submit": "Submit"
+    }
+  }
+  

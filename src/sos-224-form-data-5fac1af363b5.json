@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sos-224-form-data",
+  "private_key_id": "5fac1af363b55af21407527638b393070dcc4483",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDL3zgPXGaMP0DL\n704rRFKyssBvXDu3Mq+sANd9PO35LEB/dw/95UUpP70WvkgcCS+ZbJVv75TK/Z71\ncd5OhMpKA0KQbyignOMFfXxAuN09MIpakyEVPVJIV82Q1NFPzf72OlnmfOyW7cSb\n6yrPSN72dp38vcTqO7iZcX4Sjs3Bv9bbFAJclsEtc/9Nl3+yI78gLXEsO4SNfSHU\nsGs3YA8VJoqtP95UpMR27hcejNd2B8BGs1bKTM7hOzOKi7VSDWEnwMbkQkil9eio\nsJQWkg8XgNUlMzXE0fCKpbNDduOvrNnrxkc5NTi3NbMNt3PSAJldn4YmyEe3EnE1\n7f3fj9EvAgMBAAECggEAUX2EFv/ELcMKz3l0MW857xvsN5cSd4PXHFWpzPGR3cuG\nbGzXA5GlN3u2xWSBxlMVp6nzga6uNwVxiIJfbds+UJ9E+B62ipyrUgJ6rBQ4usCw\nTMwKqUa9oRUXohCvKcsZYqqoTK0alKmtsPUrQ3fJR5LaS7A/CbGddBgdYKWcMRkZ\n9KrjZX+wxMSZv7oaHe3vtHCixLjc7wK9JIWtGJDG8Su2twxEgnNh8j9d4GczqObh\nmq1U6aGHhbyFymJoLnqHzyICKaH0hUTzdYbAX467lx28nL9uSVwmxKYYVaOn1Yuw\nHW/bCLXSt6tvIB3yAyN3xE6yI3bjsPzVeyJMRQyboQKBgQD7zKiYlyrm8FMDHtkb\nPXrBlADqYsD5s65kEz8qckk1hrlG1C/oDeR0IQVU94r8jwlc3Ib0oIFVPcujwqU6\nP0eEtFIIAvidGhAT270xUHAGH2IScTPMkLvpf5bwPDL1EArAbY3VLdFJqxfPzc9U\nRql3jL2k/pXUuFfMWFKBtSa7JQKBgQDPReFEyc7sXz2xDGyZJgy7YlgomykkFahQ\nd6byX2Xk/Zyao8DtLlIxjk2b9rh7j5pVK7fSPocYd8+cON5JL5hCiZ4wKoqJ0ca1\nYxzXeVR4KXpP1SVCayPTM73qCvCd+CMyieiehffRDP6qptvyCHPpuV1/QTRfc4ZR\nSquijvD0wwKBgD/RNQHHfmYdjsyBqwDOaihZvImrEcG3moFep2m4oXlhdd/Ps3ya\n2MXeAJ3yR1WPYw4YDlQ9wcm66bvNf1bt5tBpa0kAh8Y5bs25qY+wFVRX6+FEs54r\nKJUbc0Pb3gZiVHdEzOe0vxBuvpA6V0vCxPy5vO7uX0cUmZv+3pplMTXJAoGABzUv\n4zt9VZzuQUTkVeML2ExQMoFKyfVy1/GBPbZxjagAFSSSpezRcOW47y6CNdHFlSaj\nCs2f1wr7jjwwBq2ABvhQJu6jyK0h0tbyfs+6Tz9qAHKyDAA7y7Fl7kiZG3UwjCZd\nj32rI3rnNDn/NghzN3J5vN4gmx0iU5tcIpgD6w8CgYB+HOa7NKRbAehedxemY47K\n/5Zzj0McokvJaCV/x5KZKhhx30P3MEhUpCQkhBHO7lseUw21t25Dx5/lde5pPQ45\n3UkNjlPyGCEYT+MwORPjie0mI7Dl2lbDTbwqRZV3X6cC2BeSB2Bu/vMauPTm1rRC\nAqq0jtkLdCK8cj3uLoexZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sos-224-form-data@sos-224-form-data.iam.gserviceaccount.com",
+  "client_id": "106367315019931564160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sos-224-form-data%40sos-224-form-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
